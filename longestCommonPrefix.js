@@ -30,8 +30,6 @@
         // 5. Nested for loop to iterate through each word in the array and see if that respective spot of the string has the same letter. 
 // Time complexity: It's about the same for space and time complexity compared to the horizontal method. But when it comes to worst case scenerio, Vertical method is a lot better because you only have to iterate through the first letter of each string.
 
-
-
 const longestCommonPrefix = strs => {
     let prefix = ''
     if(strs === null || strs.length ===0) return prefix

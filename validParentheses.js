@@ -29,6 +29,8 @@
     // 1 <= s.length <= 104
     // s consists of parentheses only '()[]{}'.
 
+
+
 // Solution 1: Creating pairs
 // Description: Using a map and pop() to check if the brackets are closing properly
     // Steps:
@@ -40,7 +42,6 @@
         // 6. If the last character of stack does not match the mapped value of it as the current character, the brackets are not closing properly. So return false.
         // 7. By the end, if the stack has element left, it means that there wasn't pairs that were matching, so return false.
         // 8. Else return true.
-
 
 
 const isValid = str => {
@@ -68,6 +69,9 @@ const isValid = str => {
 }
 
 
+
+
+
 // Solution 2: Stack data structure
 // Description: Using stack data structure to create two maps for comparison. Also uses pop() to shorten stack.
     // Steps:
@@ -80,6 +84,7 @@ const isValid = str => {
         // 7. If the current char is a closing bracket, we want to pop the latest char in stack array and map it to see if the current closing bracket is the closing bracket for the popped char.
         // 8. If it isn't, just return false.
         // 9. At the end, if stack.length === 0, then it will return true. If it's not, it will return false.
+
 
 const isParenthesisMatching = (str) => {
     let stack = [];
