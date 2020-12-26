@@ -19,7 +19,6 @@
 
 
 
-
 // Solution 1: Vertical comparison method
 // Description: Takes the first letter of the first word in the array and compares it to the first letter of every word in the array, Then does the same for the second letter
     // Detailed:

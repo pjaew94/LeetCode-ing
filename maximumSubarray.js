@@ -19,6 +19,26 @@
     // Input: nums = [-2147483647]
     // Output: -2147483647
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // Solution 1: Kadane's algorithm
 // Description: This method creates two instances where one variable is working as a memory to distinguish the highest value, while the other
 // variable is doing the addition to compare with the highest value
@@ -28,19 +48,6 @@
             // a2 is set as nums[0] to account for arrays with length of 1
         // 3. Math.max() will return the highest value out of the given values. Here, we are comparing only 2 numbers in each Math.max()
         // 4. We will return the a2 variable as the answer, since it is the variable holding the highest value
-
-// [-2,    1,  -3,    4,   -1,     2,      1,      -5,     4]
-
-    -2  a1 = -2 a2 = -2
-    1   a1 = -1 a2 = -1
-    -3  a1 = -3 a2 = -1
-    4   a1 = 4  a2 = 4
-    -1  a1 = 3  a2 = 4
-    2   a1 = 5  a2 = 5
-    1   a1 = 6  a2 = 6
-    -5  a1 = 1  a2 = 6
-    4   a1 = 5  a2 = 6 
-
 
 const maxSubArray = nums => {
     
