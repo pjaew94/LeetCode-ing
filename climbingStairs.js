@@ -30,11 +30,6 @@
         // 4. For every loop starting at i = 3, we're essentially climbing up the Fibonacci sequence one up at a time.
         // 5. At the end of each loop, the variable 'second' will always be equal to 'third'. So we can return 'second' as the final answer.
 
-n = 6
-
-i = 3 | third = 3, first = 2, second = 3;
-i = 4 | third = 5, first = 3, second = 5;
-i = 5 | third = 8, first = 5, second = 8;
 const climbStairs = n => {
     if(n === 1 || n === 0) return 1
 
