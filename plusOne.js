@@ -31,10 +31,6 @@
 
 
 
-
-
-
-
 // Solution 1: Using carry
 // Description: We're setting up a carry variable so it carries the value 1 if the sum of 1 creates a 10, which won't be a decimal digit.
     // Steps:

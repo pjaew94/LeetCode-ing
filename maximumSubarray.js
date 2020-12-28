@@ -35,10 +35,6 @@
 
 
 
-
-
-
-
 // Solution 1: Kadane's algorithm
 // Description: This method creates two instances where one variable is working as a memory to distinguish the highest value, while the other
 // variable is doing the addition to compare with the highest value
@@ -62,4 +58,4 @@ const maxSubArray = nums => {
 }
 
 
-// console.log(maxSubArray([1, 2, 5, 0]))
+// console.log(maxSubArray([-2,1,-3,4,-1,2,1,-5,4]))

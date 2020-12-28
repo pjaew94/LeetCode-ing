@@ -43,7 +43,6 @@
 
 
 
-
 // Solution 1: Tailing the j in for loop
 // Description: The difficult aspect of this problem is that you can't make an array to push onto. So we have to work with the existing array.
     // Steps:

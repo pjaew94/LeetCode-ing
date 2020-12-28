@@ -27,7 +27,6 @@
 
 
 
-
 // Solution 1: Quickest Way
 // Description:
     // 1. Takes param number and turns into string using toString()

@@ -35,13 +35,6 @@
 
 
 
-
-
-
-
-
-
-
 // Solution 1: Creating pairs
 // Description: Using a map and pop() to check if the brackets are closing properly
     // Steps:
