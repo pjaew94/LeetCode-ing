@@ -19,6 +19,18 @@
 // Output: false
 // Explanation: There is no cycle in the linked list.
 
+
+
+
+
+
+
+
+
+
+
+
+
 // Solution 1: Slow and fast pointer
 // Description: Basically setting a slow pointer and fast pointer to move around the link. They will meet each other eventually if there is a cycle.
     // Steps:

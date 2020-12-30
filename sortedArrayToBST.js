@@ -25,6 +25,14 @@
 
 
 
+
+
+
+
+
+
+
+
 // Solution 1: Recursive Method.
 // Description: Finds the midpoint of the given array and uses recursion to loop through left and right subarrays of the given array to make binary tree
     // Steps:

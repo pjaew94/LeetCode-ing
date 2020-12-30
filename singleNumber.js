@@ -22,6 +22,20 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // Solution 1: Very bad solution
 // Description: Basically loop through each index and filter out every number except the current number. If the length of the filtered array is 1, then that means theres only one of the number in the array. Return the number
 // const singleNumber = nums => {

@@ -10,6 +10,28 @@
 // Input: "race a car"
 // Output: false
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // Solution 1:
     // Description: Lowercase the string FIRST then replace all of the characters. Because the parameter in the replace() replaces every that is not lowercase alphabet with an empty string.
                     // Return the condition if the reversed is equal to the original.

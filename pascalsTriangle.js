@@ -12,6 +12,22 @@
 //[1,5,10,10,5,1]
 // ]
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // Solution 1: Loopin
 // Description: Create For loop nested inside of another to implement row/column strat.
     // Steps:
