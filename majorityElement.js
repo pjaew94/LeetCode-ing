@@ -22,6 +22,18 @@
 // Follow-up: Could you solve the problem in linear time and in O(1) space?
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 // Solution 1: O(1). Loop once.
 // Description: This solution is heavily dependant on the fact that majority number appears n/2 times.
     // Steps:
