@@ -6,7 +6,6 @@
 // getMin() -- Retrieve the minimum element in the stack.
 
 
-
 // Example 1:
 // Input
 // ["MinStack","push","push","push","getMin","pop","top","getMin"]

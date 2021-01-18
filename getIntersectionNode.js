@@ -41,7 +41,6 @@
 
 
 
-
 // Solution 1: 3 Pointer
 // Description: You are moving down the headA array and also the headB array one at a time. Now if they both intersect at the same index for both arrays, then it will be super simple.
 //              But, if they don't, we will make headA start at headB and headB at headA if they reach the end of the array without finding a node same to each other.

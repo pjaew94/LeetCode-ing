@@ -37,6 +37,7 @@
 
 
 
+
 // Solution 1: Power
 // Description: Notice that in order for ZY to be 701. It's the first Y value (25) plus 26^2. Meaning in order for us to get to Z_,
 //              We need to run through the alphabet (26 length) 26 times.

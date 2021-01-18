@@ -31,7 +31,6 @@
 
 
 
-
 // Solution 1: Using Concat, Sort, Filter
 // Description: Concat the two arrays, then sort them by ascending order, then filter out all of the zeros.
 // Note: Not accepted on leetcode because of concat()

@@ -29,8 +29,6 @@
 
 
 
-
-
 // Solution 1: One for loop
 // Description:
     // Steps:

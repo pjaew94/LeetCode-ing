@@ -25,16 +25,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 // Solution 1: Using concat and sort
 // Description: Concat to join the two arrays together then using sort() function to sort by ascending order
 const mergeTwoSortedLists = (l1, l2) => { 
@@ -47,5 +37,5 @@ const mergeTwoSortedLists = (l1, l2) => {
 }
 
 
-console.log(mergeTwoSortedLists([1,2,3], [1,4,5]))
+console.log(mergeTwoSortedLists([1,2,4], [1,3,4]))
 
